@@ -391,5 +391,7 @@ and eventually:
 ### 🚀 Keep Solving. Keep Revising. Keep Improving.
 
 **One problem at a time.**
+**Need to be studied more**
+Flattening of LL
 
 </p>
